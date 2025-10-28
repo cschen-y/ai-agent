@@ -1,0 +1,15 @@
+25-10-28.18:17:08.273 [main            ] INFO  Application            - Starting Application using Java 21.0.8 with PID 97712 (D:\Desktop\web\fuge\agent\ai-agent\ai-agent-app\target\classes started by cc in D:\Desktop\web\fuge\agent\ai-agent)
+25-10-28.18:17:08.274 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+25-10-28.18:17:08.896 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[cn.cs]' package. Please check your configuration.
+25-10-28.18:17:09.512 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port 8091 (http)
+25-10-28.18:17:09.515 [main            ] INFO  AprLifecycleListener   - Loaded Apache Tomcat Native library [2.0.8] using APR version [1.7.4].
+25-10-28.18:17:09.518 [main            ] INFO  AprLifecycleListener   - OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+25-10-28.18:17:09.525 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+25-10-28.18:17:09.526 [main            ] INFO  StandardService        - Starting service [Tomcat]
+25-10-28.18:17:09.526 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/10.1.36]
+25-10-28.18:17:09.563 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+25-10-28.18:17:09.564 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1258 ms
+25-10-28.18:17:09.663 [main            ] INFO  OptionalValidatorFactoryBean - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+25-10-28.18:17:09.957 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+25-10-28.18:17:09.970 [main            ] INFO  TomcatWebServer        - Tomcat started on port 8091 (http) with context path '/'
+25-10-28.18:17:09.975 [main            ] INFO  Application            - Started Application in 2.134 seconds (process running for 2.732)
